@@ -2,7 +2,7 @@ APP_CODE_PATH_HOST=../laravel
 
 DATA_PATH_HOST=../data
 
-COMPOSE_PROJECT_NAME=laradock-like
+COMPOSE_PROJECT_NAME=laravel-sns
 
 NGINX_PORT=80
 
